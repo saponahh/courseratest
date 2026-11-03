@@ -1,2 +1,2 @@
 # courseratest
-for coursera
+CI/CD ML Pipeline with MLflow and GitHub Actions
